@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ticTacToeReactGame/static/css/main.279ea03f.css",
+    "main.js": "/ticTacToeReactGame/static/js/main.4a6b9256.js",
+    "static/media/bg-pattern-dark.png": "/ticTacToeReactGame/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/ticTacToeReactGame/index.html",
+    "main.279ea03f.css.map": "/ticTacToeReactGame/static/css/main.279ea03f.css.map",
+    "main.4a6b9256.js.map": "/ticTacToeReactGame/static/js/main.4a6b9256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279ea03f.css",
+    "static/js/main.4a6b9256.js"
+  ]
+}
