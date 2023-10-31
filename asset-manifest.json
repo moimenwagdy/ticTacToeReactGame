@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/https//:moimenwagdy.github.io/ticTacToeReactGame/static/css/main.b568fd5e.css",
-    "main.js": "/https//:moimenwagdy.github.io/ticTacToeReactGame/static/js/main.4a6b9256.js",
-    "static/media/bg-pattern-dark.png": "/https//:moimenwagdy.github.io/ticTacToeReactGame/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
-    "index.html": "/https//:moimenwagdy.github.io/ticTacToeReactGame/index.html",
-    "main.b568fd5e.css.map": "/https//:moimenwagdy.github.io/ticTacToeReactGame/static/css/main.b568fd5e.css.map",
-    "main.4a6b9256.js.map": "/https//:moimenwagdy.github.io/ticTacToeReactGame/static/js/main.4a6b9256.js.map"
+    "main.css": "/ticTacToeReactGame/static/css/main.279ea03f.css",
+    "main.js": "/ticTacToeReactGame/static/js/main.4a6b9256.js",
+    "static/media/bg-pattern-dark.png": "/ticTacToeReactGame/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/ticTacToeReactGame/index.html",
+    "main.279ea03f.css.map": "/ticTacToeReactGame/static/css/main.279ea03f.css.map",
+    "main.4a6b9256.js.map": "/ticTacToeReactGame/static/js/main.4a6b9256.js.map"
   },
   "entrypoints": [
-    "static/css/main.b568fd5e.css",
+    "static/css/main.279ea03f.css",
     "static/js/main.4a6b9256.js"
   ]
 }
